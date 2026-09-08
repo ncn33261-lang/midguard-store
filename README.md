@@ -1,1 +1,0 @@
-# midguard-store
